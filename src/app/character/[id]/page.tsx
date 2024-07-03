@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useState, useEffect } from "react";
 import axios from "axios";
 
+
 interface Character {
     name: string;
     height: string;
